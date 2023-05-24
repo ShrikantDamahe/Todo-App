@@ -84,7 +84,7 @@ const App = () => {
         }
       }}>
         <input type="text" name="taskTitle" placeholder="Add a task" />
-        <button type="submit">Add</button>
+        <button type="submit">Add Task</button>
       </form>
     </div>
   );
